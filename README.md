@@ -26,6 +26,23 @@
 3. **관리자 기능**  
    - 관리자 계정은 당번 사용자 추가/삭제/변경이 가능합니다.
 
+## 환경 설정
+
+| 프로그램 명              |    버전 명   |
+|------------------------|------------|
+| Node.js                | v22.3.0    |
+| React                  | v18.2.0    |
+| Express                | ^4.19.2    |
+| Express EJS Layouts    | ^2.5.1     |
+| EJS                    | ^3.1.9     |
+| Mongoose               | ^6.6.1     |
+| MongoDB                | 4.9        |
+| Node Schedule          | ^2.1.1     |
+| FCM Node               | ^1.6.1     |
+| Firebase               | ^10.12.2   |
+| Firebase Admin         | ^12.1.1    |
+
+
 <!-- .env 
 ============= -->
 <!-- MONGO_DB_URL = "mongodb+srv://gmLim:awdsxz2@Cluster0.pykgshf.mongodb.net/?retryWrites=true&w=majority"
