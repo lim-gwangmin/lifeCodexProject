@@ -31,10 +31,8 @@
 | 프로그램 명              |    버전 명   |
 |------------------------|------------|
 | Node.js                | v22.3.0    |
-| React                  | v18.2.0    |
 | Express                | ^4.19.2    |
-| Express EJS Layouts    | ^2.5.1     |
-| EJS                    | ^3.1.9     |
+| EJS                    | ^2.5.1     |
 | Mongoose               | ^6.6.1     |
 | MongoDB                | 4.9        |
 | Node Schedule          | ^2.1.1     |
