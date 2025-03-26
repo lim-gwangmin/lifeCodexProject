@@ -1,10 +1,12 @@
+# 주번 알림 프로젝트
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8a2be2?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-# 주번 알림 프로젝트
+## 프로젝트 소개
 
 회사에서 매주 커피 머신 및 분리수거를 담당하는 당번을 정하지만,  
 휴가나 일정 변경으로 인해 **이번 주 당번이 누구인지 헷갈리는 상황이 자주 발생**했습니다.
